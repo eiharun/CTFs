@@ -10,7 +10,7 @@ AltTest2
 
 ###### H6
 
-Test
-*Test*
-**Test** __Test__
-**test _test_**
+Test.
+*Test*.
+**Test** __Test__.
+**test _test_**.
