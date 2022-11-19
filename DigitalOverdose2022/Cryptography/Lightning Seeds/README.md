@@ -1,5 +1,5 @@
 # Lightning Seeds
-#### Encrypted Flag:* 4fcbac835550403f13c4cc337d8d8da48351921dfb7cd47d33857432c2ee665d821227*
+#### Encrypted Flag: *4fcbac835550403f13c4cc337d8d8da48351921dfb7cd47d33857432c2ee665d821227*
 
 Python Encryption Code
 ~~~
