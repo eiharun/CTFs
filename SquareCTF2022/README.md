@@ -2,7 +2,7 @@
 
 ### Pulse Check
 
-**flag:** : *flag{im_alive_and_so_are_the_servers}*
+**flag:** *flag{im_alive_and_so_are_the_servers}*
 
 # Challenge 2:
 
