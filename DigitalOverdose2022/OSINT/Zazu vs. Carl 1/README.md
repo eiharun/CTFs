@@ -16,9 +16,9 @@ Chateau d'eux Railway
 MOB appears on the building in the back and also on the train
 >![image](https://user-images.githubusercontent.com/92404926/202867255-ab99ed16-157f-4ca4-8ce3-97728e26f576.png)
 >![image](https://user-images.githubusercontent.com/92404926/202867280-d6211aa4-69a9-441e-bc88-da1476e15f05.png)
-~~~
+
 MOB stands for Montreux Oberland Bernois
-~~~
+
 >![image](https://user-images.githubusercontent.com/92404926/202867325-b8ffbc23-62f7-42cb-9d92-e1e65ccfa2f7.png)
 >![image](https://user-images.githubusercontent.com/92404926/202867342-54ef9536-76f4-4513-8b16-b9deb5473699.png)
 
