@@ -1,20 +1,11 @@
-Test
-# Test1
-## Test2
+# Challenge 1:
 
-AltTest
-======
+### Pulse Check
 
-AltTest2
-------
+**flag:** : *flag{im_alive_and_so_are_the_servers}*
 
-###### H6
+# Challenge 2:
 
-Test.
+### EZ Pwn 1
 
-*Test*.
-
-**Test** __Test__.
-
-**test _test_**.
 
