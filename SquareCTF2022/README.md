@@ -10,7 +10,7 @@ ___
 
 ## EZ Pwn 1:
 
-'''
+''''
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -35,4 +35,5 @@ int main()
     system(command);
 
 }
-'''
+
+''''
