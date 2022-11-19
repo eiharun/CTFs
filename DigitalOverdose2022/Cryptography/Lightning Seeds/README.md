@@ -21,5 +21,6 @@ Encrypted flag is in hexadecimal
 
 Converted: 605532937396836283609633940045509402527329794084873185086104772100925473110624440871
 
-specific seed for a range will always producs the same randoom numbers
-I only need to bute force the seed that was used to encrypt the flag
+- Specific seed for a range will always producs the same randoom numbers. 
+- I only need to bute force the seed that was used to encrypt the flag.
+
