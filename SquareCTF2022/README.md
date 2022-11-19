@@ -9,9 +9,8 @@ ___
 # Challenge 2
 
 ## EZ Pwn 1:
-
+Source Code:
 ~~~
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -32,6 +31,5 @@ int main()
     puts("Ok, here ya go!\n");
     system(command);
 }
-
 ~~~
 
