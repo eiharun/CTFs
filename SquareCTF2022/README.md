@@ -29,10 +29,11 @@ int main()
         exit(0);
     }
     puts("Ok, here ya go!\n");
-    system(command);                                                   //executes command
+    system(command);                                                //executes command
 }
 ~~~
 Command to access challenge: nc chals.2022.squarectf.com 4100
 
+![image](https://user-images.githubusercontent.com/92404926/202836226-ba85e828-c316-427f-9dfa-b402cb98095c.png)
 
 
