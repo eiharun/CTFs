@@ -8,7 +8,7 @@ ___
 
 # Challenge 2
 
-## EZ Pwn 1:
+## EZ pwn 1:
 Source Code (With my comments):
 ~~~
 #include <stdio.h>
@@ -98,3 +98,5 @@ Simple enough
 ___
 
 # Challenge 3
+
+## EZ pwn 2
