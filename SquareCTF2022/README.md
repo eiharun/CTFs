@@ -75,6 +75,8 @@ After some reasearch I found this command: __cd */__ and thought maybe it can be
 I like to think about it as a loop: It loops through all the directories in your working directory.
 When used in combination with __ls__ it effectively lists all the files in the working directory.
 
+[^1]: https://www.tecmint.com/use-wildcards-to-match-filenames-in-linux/
+
 ![image](https://user-images.githubusercontent.com/92404926/202837350-e3c0387d-4346-4a08-af0d-b0334d05a3fc.png)
 >Using __ls */__ along with the 8 char buffer
 
@@ -93,9 +95,6 @@ Simple enough
 >(*) gives us a global file list, (/) allows us to select one of the many files
 
 **flag:** *flag{congrats_youve_exploited_a_memory_corruption_vulnerability}*
-
-[^1]: https://www.tecmint.com/use-wildcards-to-match-filenames-in-linux/
-
 ___
 
 # Challenge 3
