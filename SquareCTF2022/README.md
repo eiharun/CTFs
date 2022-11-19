@@ -170,6 +170,14 @@ ______
 Files: elf binary, macho binary [link them]
 - Using IDA Freeware
 
+![image](https://user-images.githubusercontent.com/92404926/202857961-6cafdb97-808b-4411-b218-956d67252646.png)
+![image](https://user-images.githubusercontent.com/92404926/202858008-20a6cd8f-9559-467f-8fb4-8d089d7b9e37.png)
+![image](https://user-images.githubusercontent.com/92404926/202858014-51d6c6dd-ed32-4f09-bf5a-4da17ddff0ae.png)
+
+
+
+
+
 
 
 
