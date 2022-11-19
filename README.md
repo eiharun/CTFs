@@ -1,3 +1,3 @@
 # CTFs
-[SquareCTF 2022](CTFs/SquareCTF2022/)
+[SquareCTF 2022](CTFs/SquareCTF2022)
  
