@@ -18,3 +18,6 @@ Audio Transcript
 
 *transmission ends*
 ~~~
+A=1,Z=26 cipher
+Flag: What a weird station
+*CTF not accepting flag*
