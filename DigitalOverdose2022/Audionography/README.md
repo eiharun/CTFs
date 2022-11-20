@@ -11,6 +11,7 @@ Pullung the file up in Audacity
 #### Step 2
 
 Select Spectrogram
+
 ![image](https://user-images.githubusercontent.com/92404926/202924617-a248681b-e5f4-47bf-8b6a-cd4e5152be3d.png)
 ![image](https://user-images.githubusercontent.com/92404926/202924672-ee6d5569-46ba-48d5-8f50-02a8a18410ee.png)
 
