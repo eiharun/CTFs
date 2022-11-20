@@ -17,9 +17,11 @@ Select Spectrogram
 
 #### Step 3
 Interesting, but is it hard to read... Maybe it is reversed?
+
 ![image](https://user-images.githubusercontent.com/92404926/202924695-82536ec3-fb83-4aa6-b73d-63192a6e69d2.png)
 
 Challenge Solved!
+
 ![image](https://user-images.githubusercontent.com/92404926/202924706-16d8f315-01aa-4566-abb8-c8740d6c811c.png)
 
 
