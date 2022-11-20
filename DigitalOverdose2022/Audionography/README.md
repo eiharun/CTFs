@@ -1,6 +1,6 @@
 # Ye Auld-io
 
-[Audio File](DigitalOverdose2022/Audionography/challenge1.wav)
+[Audio File](https://github.com/eiharun/CTFs/blob/6cf30c536573e9054c0234ca24a264bd0bd18116/DigitalOverdose2022/Audionography/challenge1.wav)
 
 Listening to it, there is nothing of importance that I noticed
 
