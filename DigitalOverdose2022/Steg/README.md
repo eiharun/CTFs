@@ -5,9 +5,10 @@ Use https://www.aperisolve.com/ and upload the image
 
 ![image](https://user-images.githubusercontent.com/92404926/202953737-2e2170b7-609a-40fa-b88e-d44361a47751.png)
 
+#### Step 2
+
 ![image](https://user-images.githubusercontent.com/92404926/202953855-ffc40082-af1c-4475-b920-63c8bffa0757.png)
 
-#### Step 2
 I noticed this in the Exiftool data. The answer here is `x=3`. I also noticed this weird string `sdvvrug : qrmlq`.
 This could be a ceaser cipher with a shift of 3.
 
@@ -42,7 +43,7 @@ Intel
 
 One problem... where is the zip file. There is a hint at the bottom `ARROW#5141`. This is a discord tag. I added him and discovered his github was linked in his profile.
 
-![Discord](https://user-images.githubusercontent.com/92404926/202953343-b4c3044f-3e7b-4fe8-a5ab-a8d0f0036a34.png)
+![image](https://user-images.githubusercontent.com/92404926/202955593-f809b268-3a50-4b8e-8390-2f462f0188c1.png)
 ![image](https://user-images.githubusercontent.com/92404926/202954693-318c1847-8513-4c4e-81d6-306e2607745d.png)
 
 The zip file has a password. But we know it is one of the answers to the questions above. I tried all 4, the correct one was `Intel`
