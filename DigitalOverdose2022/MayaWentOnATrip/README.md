@@ -26,6 +26,25 @@ Form the flag
 `DOCTF{yeosu_expo}`
 
 # 2. SympoZzzium
+~~~
+I attended an event near Yeosu, and it was a bit boring, so I decided to play with Wigle. 
+
+What institution did this event take place at?
+
+Wrap the English name, in lowercase, with the DOCTF{xxxxx} flag format, replacing any spaces with _.
+~~~
+#### Step 1
+Looking through the csv file, I noticed there are a lot of `eduroam` SSIDs.
+Eduroam is a network that is commonly used in universities. So we can narrow the institution to an university
+I also noticed `JNU`, which sounds like an abbreviation for an university.
+
+![image](https://user-images.githubusercontent.com/92404926/202945649-50e83c22-42dc-4c33-8eee-87951fcc0d39.png)
+
+#### Step 2
+Googling JNU in Yeosu, gives us the location of an university: `Chonnam National University`
 
 ![image](https://user-images.githubusercontent.com/92404926/202945594-f4f992a2-3434-424e-ba1f-9d67e2f4deab.png)
-![image](https://user-images.githubusercontent.com/92404926/202945649-50e83c22-42dc-4c33-8eee-87951fcc0d39.png)
+
+#### Step 3
+Form the flag
+`DOCTF{chonnam_national_university}`
