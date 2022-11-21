@@ -25,3 +25,7 @@ As we can see this is the location of the photo, the nearest train station is `Y
 Form the flag
 `DOCTF{yeosu_expo}`
 
+# 2. SympoZzzium
+
+![image](https://user-images.githubusercontent.com/92404926/202945594-f4f992a2-3434-424e-ba1f-9d67e2f4deab.png)
+![image](https://user-images.githubusercontent.com/92404926/202945649-50e83c22-42dc-4c33-8eee-87951fcc0d39.png)
