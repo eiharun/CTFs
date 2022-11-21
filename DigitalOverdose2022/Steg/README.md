@@ -47,6 +47,7 @@ One problem... where is the zip file. There is a hint at the bottom `ARROW#5141`
 ![image](https://user-images.githubusercontent.com/92404926/202954693-318c1847-8513-4c4e-81d6-306e2607745d.png)
 
 The zip file has a password. But we know it is one of the answers to the questions above. I tried all 4, the correct one was `Intel`
+
 Contents of the file:
 
 #### Step 5
