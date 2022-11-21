@@ -2,5 +2,6 @@
 [SquareCTF 2022](SquareCTF2022/)
 
 [DigitalOverdose 2022](DigitalOverdose2022/)
-[SquareCTF 2022](SunshineCTF2022/)
+
+[SunShineCTF 2022/](SunshineCTF 2022/)
  
