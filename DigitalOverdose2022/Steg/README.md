@@ -43,7 +43,7 @@ Intel
 
 One problem... where is the zip file. There is a hint at the bottom `ARROW#5141`. This is a discord tag. I added him and discovered his github was linked in his profile.
 
-![image](https://user-images.githubusercontent.com/92404926/202955593-f809b268-3a50-4b8e-8390-2f462f0188c1.png)
+![image](https://user-images.githubusercontent.com/92404926/202955701-9de8a3bc-1580-4830-bdb4-d86e7e66144a.png)
 ![image](https://user-images.githubusercontent.com/92404926/202954693-318c1847-8513-4c4e-81d6-306e2607745d.png)
 
 The zip file has a password. But we know it is one of the answers to the questions above. I tried all 4, the correct one was `Intel`
