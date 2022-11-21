@@ -3,5 +3,5 @@
 
 [DigitalOverdose 2022](DigitalOverdose2022/)
 
-[SunShineCTF 2022/](SunshineCTF 2022/)
+[SunShineCTF 2022](SunshineCTF 2022/)
  
