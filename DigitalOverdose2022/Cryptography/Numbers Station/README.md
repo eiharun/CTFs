@@ -21,3 +21,4 @@ Audio Transcript
 A=1,Z=26 cipher
 Flag: What a weird station
 *CTF not accepting flag*
+Edit: Later found that the proper format is: what_a_weird_station
