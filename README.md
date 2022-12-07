@@ -1,4 +1,6 @@
-# CTFs
+# CTF Writeups
+I still included CTF's that I was not successful in completing the challenges. These are marked [Unsolved]
+
 [SquareCTF 2022](SquareCTF2022/)
 
 [DigitalOverdose 2022](DigitalOverdose2022/)
