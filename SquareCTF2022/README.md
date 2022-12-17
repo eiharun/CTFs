@@ -167,7 +167,7 @@ ______
 # Challenge 4
 
 | Files: | [ez-re-1_elf](EZ_RE_1/ez-re-1_elf) | [ez-re-1_macho](EZ_RE_1/ez-re-1_macho) |
-|---|---|---|
+| --- | --- | --- |
 
 ## EZ RE 1
 Files: elf binary, macho binary [link them]
