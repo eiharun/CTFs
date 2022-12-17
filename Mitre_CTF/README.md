@@ -1,4 +1,8 @@
 # MITRE CTF
+### Challenges:
+[Crypto](Crypto/): [100](100/) [150 [Unsolved]](150%20[Unsolved]/)
+
+[Web](Web/): [100](100/) [200](200/)
 
 ## Competing with my team: PING-U
 
