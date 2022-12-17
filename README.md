@@ -11,4 +11,4 @@ I still included CTF's that I was not successful in completing the challenges. T
 
 [HTB University Supernatural Hacks](HTB_University/)
 
-[MITRE STEM CTF](MITRE STEM CTF/)
+[MITRE STEM CTF](Mitre_CTF/)
