@@ -7,3 +7,8 @@ I still included CTF's that I was not successful in completing the challenges. T
 
 [SunShineCTF 2022](SunShineCTF2022/)
  
+[GlacierCTF 2022](GlacierCTF2022/)
+
+[HTB University Supernatural Hacks](HTB_University/)
+
+[MITRE STEM CTF](MITRE STEM CTF/)
