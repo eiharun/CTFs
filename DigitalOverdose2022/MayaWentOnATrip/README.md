@@ -1,4 +1,4 @@
-# 1. Seaside
+# 1. Seaside | File: [JPG](Seaside1.jpg)
 ~~~
 From the picture, can you find the closest train station?
 
