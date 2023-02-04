@@ -65,7 +65,7 @@ def printOutputs(inp):#input is a sorted dictionary
         print('Score: ', items[1], '\n\t', items[0],)
     print('\n','*'*100,'\n')
     
-#printOutputs(ETAOIN(bruteforce_XOR('1b37373331363f78151b7f2b783431333d78397828372d363c78373e783a393b3736')))
+printOutputs(ETAOIN(bruteforce_XOR('1b37373331363f78151b7f2b783431333d78397828372d363c78373e783a393b3736')))
     
 
 

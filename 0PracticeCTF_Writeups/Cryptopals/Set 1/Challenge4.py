@@ -1,38 +1,48 @@
-#Refrence:https://cypher.codes/writing/cryptopals-challenge-set-1
-import Single_byte_XOR_cipher_decoder as XOR
+#Refrence:https://www.youtube.com/watch?v=zTq4iwpAGM8
+from Challenge3 import *
+def openfile():
+    with open('Set 1/Challenge4File.txt', 'r') as file:
+        file_list = file.readlines()
+        for n,i in enumerate(file_list):
+            file_list[n]=i.strip()
+    return file_list
 
-with open('Set 1\Challenge4File.txt', 'r') as file:
-    file_list = file.readlines()
-    for n,i in enumerate(file_list):
-        file_list[n]=i.strip()
-    #print(file_list)
-all = {}
-for i in file_list:
-    #print(i)
-    all[i] = XOR.bruteforce_XOR(i) #function returns list, creates a dictionary with input as key, and outputs in list as value
-#print(all)
+def find_pt(pt_list):
+    filtered=[]
+    for i in pt_list:
+        score = get_score(i)
+        max_score = max(score)
+        filtered.append((max_score, i))
+    maxz=0
+    pt=''
+    for i in filtered:
+        if maxz<i[0]:
+            maxz = i[0]
+            pt = i[1]
+    return pt
 
-for k in all:
-    #print(k)
-    print(k)
-    for i in all[k]:
-        if i.isprintable() == True:
-            print('\t', i,'\n')
-        
 
-'''
-    all[k]=XOR.ETAOIN(all[k])
-    #print(list(all[k]),all[k])
-    for i in list(all[k]):#I is the key of subdict/possible decrypted value
-        for x in i:
-            if x.isspace() == True:
+def filtered(pt):
+    filters=[]
+    for i in pt:
+        for k in ETAOIN.keys():
+            if ord(k) not in i:
                 break
             else:
-                #print(k, i, all[k])
-                all[k].pop(i)#remove keys that don't have any spaces
-                break'''
-#print(all)
-'''for k in all:
-    print(k,':\n')
-    XOR.printOutputs(all[k])
-'''
+                filters.append(i)
+                break
+    return filters
+
+def main():
+    encoded_list = openfile()
+    filter=[]
+    for encoded in encoded_list:    
+        ct=bytes.fromhex(encoded)
+        key = single_byte(ct)
+        pt = xor(ct,key)
+        filter.append(pt)
+    print(find_pt(filtered(filter)))
+
+if __name__=='__main__':
+    main()
+    
